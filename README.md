@@ -5,11 +5,11 @@
 
 数据由鸥维数据和驱动中国联合发布，乃全网相关内容热度指数，数据仅作为量化参考。
 
-由于本人来自塞浦路斯(Cyprus)，而塞浦路斯(Cyprus)和中国(China)都是C开头的，便有了从世界地图中选取了17个字母C开头的国家的想法。
+由于我来自塞浦路斯(Cyprus)，而塞浦路斯(Cyprus)和中国(China)都是C开头的，便有了从世界地图中选取了17个字母C开头的国家的想法。
 
-[作业1链接1](https://specismile.github.io/China.html)
+[中国地图](https://specismile.github.io/China.html)
 
-[作业1链接2](https://specismile.github.io/World.html)
+[世界地图](https://specismile.github.io/World.html)
 
 
 ## 2.作业2
@@ -19,12 +19,12 @@
 
 除此之外，我还制作了一个显示2023年北京大学经济学院各个专业都有多少名毕业生的饼状图，以及2024年前十周我在网易云软件中听歌的时长分析图。
 
-[作业2链接](https://specismile.github.io/Charts.html)
+[组合图表](https://specismile.github.io/Charts.html)
 
 
 ## 3.作业3
-提到词频统计图我可就更加兴奋了！几年前初次读David Gibbins的书时，我彻彻底底地被迷住了！后来读了好几本同一系列的书，奈何现在已经几乎忘光了。
+提到词云图的内容我可就更加兴奋了！几年前初次读David Gibbins的书时，我彻彻底底地被迷住了！后来读了好几本同一系列的书，奈何现在已经几乎忘光了。
 
 其中阅读了《Atlantis》之后，那时小小的我对著名的亚特兰蒂斯（传说中沉没于大西洋的岛屿）产生了浓厚的兴趣，幻想着如果有一天我真能亲自见到这个岛屿该有多么浪漫！
 
-[作业3链接](https://specismile.github.io/Atlantis.html)
+[词频统计](https://specismile.github.io/Atlantis.html)
